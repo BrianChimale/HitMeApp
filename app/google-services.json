@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "835306370905",
+    "firebase_url": "https://hitmeapp-3aebb.firebaseio.com",
+    "project_id": "hitmeapp-3aebb",
+    "storage_bucket": "hitmeapp-3aebb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835306370905:android:6b523888dd56e38a",
+        "android_client_info": {
+          "package_name": "com.chimale.hitmeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835306370905-mj271ju1s9kihl8fnf28dcrmj7gcj8ug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chimale.hitmeapp",
+            "certificate_hash": "81fddfe2d4e10573025064fd0550d0c9172737aa"
+          }
+        },
+        {
+          "client_id": "835306370905-utdh6joa31p6vplqhghfhj9eosdtkcmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNU47pK6koZZYUXCw2cKjORqOONBLywQM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835306370905-utdh6joa31p6vplqhghfhj9eosdtkcmu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
